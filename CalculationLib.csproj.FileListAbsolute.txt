@@ -1,0 +1,6 @@
+C:\Users\whatk\source\repos\CalculationLib\CalculationLib\bin\Debug\CalculationLib.dll
+C:\Users\whatk\source\repos\CalculationLib\CalculationLib\bin\Debug\CalculationLib.pdb
+C:\Users\whatk\source\repos\CalculationLib\CalculationLib\obj\Debug\CalculationLib.csproj.AssemblyReference.cache
+C:\Users\whatk\source\repos\CalculationLib\CalculationLib\obj\Debug\CalculationLib.csproj.CoreCompileInputs.cache
+C:\Users\whatk\source\repos\CalculationLib\CalculationLib\obj\Debug\CalculationLib.dll
+C:\Users\whatk\source\repos\CalculationLib\CalculationLib\obj\Debug\CalculationLib.pdb

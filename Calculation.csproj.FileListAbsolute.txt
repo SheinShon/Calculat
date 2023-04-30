@@ -1,0 +1,11 @@
+C:\Users\whatk\source\repos\CalculationLib\Calculation\bin\Debug\Calculation.exe.config
+C:\Users\whatk\source\repos\CalculationLib\Calculation\bin\Debug\Calculation.exe
+C:\Users\whatk\source\repos\CalculationLib\Calculation\bin\Debug\Calculation.pdb
+C:\Users\whatk\source\repos\CalculationLib\Calculation\bin\Debug\CalculationLib.dll
+C:\Users\whatk\source\repos\CalculationLib\Calculation\bin\Debug\CalculationLib.pdb
+C:\Users\whatk\source\repos\CalculationLib\Calculation\obj\Debug\Calculation.csproj.AssemblyReference.cache
+C:\Users\whatk\source\repos\CalculationLib\Calculation\obj\Debug\Calculation.csproj.SuggestedBindingRedirects.cache
+C:\Users\whatk\source\repos\CalculationLib\Calculation\obj\Debug\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\whatk\source\repos\CalculationLib\Calculation\obj\Debug\Calculation.csproj.CopyComplete
+C:\Users\whatk\source\repos\CalculationLib\Calculation\obj\Debug\Calculation.exe
+C:\Users\whatk\source\repos\CalculationLib\Calculation\obj\Debug\Calculation.pdb
